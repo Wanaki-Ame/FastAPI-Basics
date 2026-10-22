@@ -44,3 +44,7 @@ python -m uvicorn main:app --reload
 - OpenAPI 文档：<http://127.0.0.1:8000/openapi.json>
 
 > `--reload` 用于本地开发阶段，不应直接用于生产部署。
+
+## 参考资料
+
+- 黑马程序员《FastAPI 基础到实战》
