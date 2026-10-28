@@ -28,7 +28,7 @@ FastAPI-Basics/
 | 分类 | 笔记 | 核心内容 |
 | --- | --- | --- |
 | **01 · 数据库 / MySQL** | [MySQL 8 基础核心教程：从读懂 SQL 到独立写查询](01-database/mysql/SQL基础核心教程_Typora版.md) | `SELECT`、增删改查、`GROUP BY`、`JOIN`、子查询、事务、练习与排错 |
-| **02 · 后端 / FastAPI** | [FastAPI 第一章：基础入门复习与回顾](02-backend/fastapi/FastAPI_第一章_复习回顾笔记.md) | 同步与异步、路由、Path/Query/Body、Pydantic 校验、响应类型及异常处理 |
+| **02 · 后端 / FastAPI** | [FastAPI 第一章：基础入门与请求处理](02-backend/fastapi/FastAPI_第一章_复习回顾笔记.md) | 同步与异步、路由、Path/Query/Body、Pydantic 校验、响应类型及异常处理 |
 | **02 · 后端 / FastAPI** | [FastAPI 第二章：中间件、依赖注入与 ORM](02-backend/fastapi/FastAPI_第二章_进阶笔记.md) | 中间件与执行顺序、`Depends` 依赖注入、SQLAlchemy 异步引擎与建表、会话依赖项 `yield`、增删改查、聚合与分页 |
 | **02 · 后端 / 项目实战** | [FastAPI 第三章：AI 掘金头条 · 新闻模块](02-backend/fastapi/FastAPI_第三章_新闻模块笔记.md) | 工程分层、模块化路由 `APIRouter`、ORM 配置与数据表、跨域 CORS、新闻分类/列表/详情接口、索引与排序 |
 | **02 · 后端 / 项目实战** | [FastAPI 第四章：AI 掘金头条 · 用户模块](02-backend/fastapi/FastAPI_第四章_用户模块笔记.md) | 用户表与令牌表、`passlib` 密码加密、Token 认证、通用响应封装、全局异常处理器、注册/登录/改信息/改密码 |
